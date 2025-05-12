@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo2nuunlm", "exo2nuunlm.csproj", "{81B47AAF-E331-463B-922D-1C868D3ACE8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B47AAF-E331-463B-922D-1C868D3ACE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B47AAF-E331-463B-922D-1C868D3ACE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B47AAF-E331-463B-922D-1C868D3ACE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B47AAF-E331-463B-922D-1C868D3ACE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D776E090-AC04-4E42-9494-5C74E1B55FF2}
+	EndGlobalSection
+EndGlobal
